@@ -45,6 +45,9 @@
 <li>
 <blockquote>Example: hmmsearch MADS.hmm 51_Genomes_Peps &gt; MADS_Results</blockquote>
 </li>
+<li>
+<blockquote>Example: /public/home/zpxu/scripts/perl/parse_MADS_Results.pl MADS_Results &gt; MADS_list_raw (This file have three columns "id\tscore\tevalue", than select the id through score and evalue)</blockquote>
+</li>
 </ul>
 </li>
 </ul>
