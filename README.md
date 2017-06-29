@@ -25,7 +25,7 @@
 <blockquote>Install HMMER followed the instructions at: <a href="http://hmmer.org/documentation.html">http://hmmer.org/documentation.html</a></blockquote>
 </li>
 <li>
-<blockquote>Download the protein sequence alignment for PF00319 in Stockholm format (default name : &ldquo;PF00319_seed.txt&rdquo;): <a href="http://pfam.xfam.org/family/PF00319#tabview=tab3">http://pfam.xfam.org/family/PF00319#tabview=tab3</a><p style="text-align: center;"><strong><img src="https://github.com/tiramisutes/SynNet-Pipeline/blob/master/seed.png" alt="p" width="800" height="700" /><br /></strong></p></blockquote>
+<blockquote>Download the protein sequence alignment for PF00319 in Stockholm format (default name : &ldquo;PF00319_seed.txt&rdquo;): <a href="http://pfam.xfam.org/family/PF00319#tabview=tab3">http://pfam.xfam.org/family/PF00319#tabview=tab3</a><p style="text-align: center;"><strong><img src="https://github.com/tiramisutes/SynNet-Pipeline/blob/master/seed.png" alt="p" width="898" height="259" /><br /></strong></p></blockquote>
 </li>
 <li>
 <blockquote>Hmmbuild: to make a model from the alignment
